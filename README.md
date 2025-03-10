@@ -3,8 +3,8 @@ firmware for esp8266 in freertos is available in thsi repo [ https://github.com/
 
 
 # APP
-![Screenshot_20250310-222140](https://github.com/user-attachments/assets/e3a2e43e-943e-431f-b783-0ffe1aead860)
-![Screenshot_20250310-222157](https://github.com/user-attachments/assets/c3c505a7-d821-4b7b-88d6-dc42d5deaa05)
+<img src='https://github.com/user-attachments/assets/e3a2e43e-943e-431f-b783-0ffe1aead860' width='250'/>
+<img src='https://github.com/user-attachments/assets/c3c505a7-d821-4b7b-88d6-dc42d5deaa05' width='250'/>
 
 # Getting Started
 
